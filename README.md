@@ -12,7 +12,7 @@ Crop Advisor Bot is an **AI powered assistant** designed to help farmers diagnos
 * 🌾 **Multi-Crop Support**: 100+ Indian crops with detailed cultivation guidance.
 * 📍 **Regional Advice**: Location specific farming recommendations.
 * 🌱 **Soil Compatibility**: Soil type based crop suggestions.
-* 💬 **Dual Interface**: CLI and Telegram bot support.
+* 📲🧑🏻‍💻**Dual Interface**: CLI and Telegram bot support.
 * 📊 **History Management**: Query history and statistics tracking.
 
 ## Data Sources 📊
