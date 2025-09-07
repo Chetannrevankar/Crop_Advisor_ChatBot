@@ -33,7 +33,7 @@ DISCLAIMER = "This is AI generated solution. Please clarify with Agricultural Of
 DEFAULT_RESPONSE = "I'm sorry, I couldn't understand your query. Please provide both crop name and symptoms for accurate diagnosis."
 
 # Telegram bot settings - ADD YOUR TOKEN HERE
-TELEGRAM_BOT_TOKEN = "8188279363:AAFRMuDoh8f1mOudOUK3c3b7ECBx9tni0t4"
+TELEGRAM_BOT_TOKEN = "Add_Your_Telegram_API_Key"
 
 # Default region setting for Indian context
 DEFAULT_REGION = "Karnataka"
