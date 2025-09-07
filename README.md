@@ -17,25 +17,25 @@ Crop Advisor Bot is an **AI powered assistant** designed to help farmers diagnos
 
 ## Data Sources 📊
 
-* [Crops Database](https://github.com/Chetannrevankar/Crop_Advisor_ChatBot/blob/main/data/crops_database.csv) – 145+ crop disease combinations with symptoms and treatments
-* [Regional Data](https://github.com/Chetannrevankar/Crop_Advisor_ChatBot/blob/main/data/regional_data.csv) – 138 Indian regions with crop suitability ratings
-* [Soil Data](https://github.com/Chetannrevankar/Crop_Advisor_ChatBot/blob/main/data/soil_data.csv) – 141 soil types with crop compatibility advice
+* [Crops Database](https://github.com/Chetannrevankar/Crop_Advisor_ChatBot/blob/main/data/crops_database.csv) - 145+ crop disease combinations with symptoms and treatments.
+* [Regional Data](https://github.com/Chetannrevankar/Crop_Advisor_ChatBot/blob/main/data/regional_data.csv) - 138 Indian regions with crop suitability ratings.
+* [Soil Data](https://github.com/Chetannrevankar/Crop_Advisor_ChatBot/blob/main/data/soil_data.csv) - 141 soil types with crop compatibility advice.
 * Agricultural knowledge base validated from trusted sources
 
 ## Technology Stack 🛠️
 
 * **Python 3.8+**
-* **pandas** – Data processing and management
-* **Transformers (DistilBERT)** – NLP embeddings
-* **FAISS** – Similarity search for symptoms
-* **SQLite** – User history storage
-* **python-telegram-bot** – Telegram interface
+* **pandas** - Data processing and management.
+* **Transformers (DistilBERT)** - NLP embeddings.
+* **FAISS** - Similarity search for symptoms.
+* **SQLite** - User history storage.
+* **python-telegram-bot** - Telegram interface.
 
 ### Machine Learning & NLP
 
-* **ML Algorithms**: Symptom similarity matching, FAISS-based nearest neighbor search
-* **LLM Model**: DistilBERT for embeddings & entity extraction
-* **NLP Techniques**: Intent classification, entity recognition, synonym & variation handling
+* **ML Algorithms**: Symptom similarity matching, FAISS based nearest neighbor search.
+* **LLM Model**: DistilBERT for embeddings & entity extraction.
+* **NLP Techniques**: Intent classification, entity recognition, synonym & variation handling.
 
 ## Installation ⚙️
 
@@ -73,7 +73,7 @@ python main.py --mode telegram
 
 ## License 📄
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://github.com/Chetannrevankar/Crop_Advisor_ChatBot/blob/main/LICENSE)
 
 ## Contact 💬
 
@@ -84,9 +84,9 @@ For support and questions:
 
 ## Acknowledgments 🙏
 
-* Indian Council of Agricultural Research (ICAR) for research and guidance
-* Krishi Vigyan Kendras for agricultural data
-* Hugging Face for transformer models
-* Telegram Bot API for messaging platform
+* Indian Council of Agricultural Research (ICAR) for research and guidance.
+* Krishi Vigyan Kendras for agricultural data.
+* Hugging Face for transformer models.
+* Telegram Bot API for messaging platform.
 
 🌱 Helping farmers grow better, one query at a time.
